@@ -12,3 +12,5 @@ The numerical solutions would be present in a plot with it's exact solutions. Th
 ![image](https://user-images.githubusercontent.com/99526319/162605257-f859b7f1-7eab-46c4-9a73-7305c43f5fed.png)
 
 ![image](https://user-images.githubusercontent.com/99526319/162605247-473b53c1-323d-4f5e-9b46-22a4a9052e59.png)
+
+#### Don't forget to provide the source if you use this project!
